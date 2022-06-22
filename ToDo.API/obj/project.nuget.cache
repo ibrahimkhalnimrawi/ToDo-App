@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t5A0IQbp5CBvF3d2nmIiVmX83WYCE1mBAmxY2IkG6yi6ac4V/JB12tX4NIWy6gXxarpiEw4XKA5wHic/1WjVmA==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\ToDo.API\\ToDo.API\\ToDo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ibrahim Al-Nimrawi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ibrahim Al-Nimrawi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ibrahim Al-Nimrawi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ibrahim Al-Nimrawi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ibrahim Al-Nimrawi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ibrahim Al-Nimrawi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
